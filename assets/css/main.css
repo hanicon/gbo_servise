@@ -87,7 +87,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--heading-color);
+  color: #ffffff;
   font-family: var(--heading-font);
 }
 
@@ -1115,7 +1115,7 @@ section,
 }
 
 .services .card a {
-  color: var(--heading-color);
+  color: #ffffff;
   transition: 0.3;
 }
 
