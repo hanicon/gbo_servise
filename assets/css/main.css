@@ -291,7 +291,7 @@ h6 {
 /* Global Header on Scroll
 ------------------------------*/
 .scrolled .header {
-    --background-color: #038bfc;
+    background-color: var(--default-color);
 }
 
 
